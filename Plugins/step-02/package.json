@@ -1,0 +1,16 @@
+{
+  "name": "step-02",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "fmt": "prettier --write ."
+  },
+  "dependencies": {
+    "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
